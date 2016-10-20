@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialogo</string>
+    <string name="dlg_bkg_descripcion">Descripción: </string>
+    <string name="dlg_bkg_rb_preantesis">Pre Antesis</string>
+    <string name="dlg_bkg_rb_antesis">Antesis</string>
+    <string name="dlg_bkg_rb_otro">Otro</string>
+</resources>
